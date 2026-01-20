@@ -1,4 +1,4 @@
-**Login Experiment – Context API & Redux Toolkit**
+###**Login Experiment – Context API & Redux Toolkit**###
 A React application demonstrating modern state management patterns by combining Context API for authentication and Redux Toolkit for product catalog and shopping cart functionality.
 
 
@@ -105,6 +105,13 @@ Adding unit tests with Jest and React Testing Library
 
 **📝 License**
 This project is for educational purposes.
+
+###**EXAMPLE:**###
+<img width="1456" height="787" alt="image" src="https://github.com/user-attachments/assets/f8ec8bcd-d559-4777-9e82-e3612926a58a" />
+<img width="1456" height="787" alt="image" src="https://github.com/user-attachments/assets/b0440d2e-db73-4a2d-88b4-a2fd8cc07afd" />
+<img width="1456" height="787" alt="image" src="https://github.com/user-attachments/assets/ef5edd1e-1515-4ebd-aabd-2d82a9fcc4e9" />
+
+
 
 
 **URl Link** : http://localhost:5173/
