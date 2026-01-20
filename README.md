@@ -1,13 +1,13 @@
-*Login Experiment – Context API & Redux Toolkit*
+**Login Experiment – Context API & Redux Toolkit**
 A React application demonstrating modern state management patterns by combining Context API for authentication and Redux Toolkit for product catalog and shopping cart functionality.
-🎯 Description
+**🎯 Description**
 This project serves as a learning experiment to understand when and how to use different state management solutions in React. It showcases:
 
 Context API for global authentication state (login/logout, user roles)
 Redux Toolkit for complex state management (product catalog, cart operations)
 Role-based access control with separate Admin and User experiences
 
-✨ Features
+**✨ Features**
 
 Role-based login system (Admin / User)
 Admin capabilities: Full product management (add, edit, delete products)
@@ -16,7 +16,7 @@ Shopping cart: Add/remove products, view cart contents
 Clean, intuitive UI built with modern React patterns
 Persistent state across component re-renders
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 React - UI library for building component-based interfaces
 Redux Toolkit - Official Redux toolset for efficient state management
@@ -24,13 +24,13 @@ Context API - React's built-in solution for sharing state across components
 Vite - Next-generation frontend build tool for fast development
 JavaScript/ES6+ - Modern JavaScript features
 
-📋 Prerequisites
+**📋 Prerequisites**
 Before running this project, make sure you have:
 
 Node.js (v14 or higher)
 npm (v6 or higher) or yarn
 
-🚀 How to Run
+**🚀 How to Run**
 1. Clone the repository
 bashgit clone <your-repository-url>
 cd fsdexplugin-main
@@ -62,7 +62,9 @@ fsdexplugin-main/
 ├── package-lock.json     # Locked dependency versions
 ├── README.md             # Project documentation
 └── vite.config.js        # Vite configuration
-🎮 How It Works
+
+
+**🎮 How It Works**
 Authentication Flow (Context API)
 
 User selects role (Admin/User) on login screen
@@ -77,9 +79,11 @@ Admin can dispatch actions to modify product catalog
 Users can dispatch cart actions (add/remove items)
 Redux manages state updates and ensures consistency
 
-🔧 Available Scripts
+**🔧 Available Scripts**
 CommandDescriptionnpm installInstall all project dependenciesnpm run devStart development server at http://localhost:5173/npm run buildCreate optimized production buildnpm run previewPreview production build locallynpm run lintRun ESLint to check code quality
-🎓 Learning Objectives
+
+
+**🎓 Learning Objectives**
 This project demonstrates:
 
 When to use Context API vs Redux Toolkit
@@ -88,7 +92,7 @@ Implementing role-based access control
 Modern React patterns and best practices
 Setting up a Vite-based React project
 
-🤝 Contributing
+**🤝 Contributing**
 Feel free to fork this project and experiment with:
 
 Adding new features (wishlist, product search, etc.)
@@ -96,8 +100,8 @@ Implementing persistent storage (localStorage, backend API)
 Improving UI/UX with component libraries
 Adding unit tests with Jest and React Testing Library
 
-📝 License
+**📝 License**
 This project is for educational purposes.
 
 
-URl Link : http://localhost:5173/
+**URl Link** : http://localhost:5173/
