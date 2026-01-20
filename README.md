@@ -1,4 +1,4 @@
-###**Login Experiment – Context API & Redux Toolkit**###
+###Login Experiment – Context API & Redux Toolkit###
 A React application demonstrating modern state management patterns by combining Context API for authentication and Redux Toolkit for product catalog and shopping cart functionality.
 
 
